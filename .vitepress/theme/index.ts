@@ -1,0 +1,32 @@
+// https://vitepress.dev/guide/custom-theme
+import { h } from 'vue'
+import type { Theme } from 'vitepress'
+import DefaultTheme from 'vitepress/theme'
+
+import { Tab, Tabs } from 'vue3-tabs-component'
+import TitleImage from '../components/TitleImage.vue'
+import NotFound from '../components/NotFound.vue'
+import CenteredImage from '../components/CenteredImage.vue'
+import HireUsForm from "../components/HireUsForm.vue";
+
+import './tabs.css'
+import './style.css'
+
+export default {
+  extends: DefaultTheme,
+  
+  Layout: () => {
+    return h(DefaultTheme.Layout, null, {
+      // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'not-found': () => h(NotFound)
+    })
+  },
+  
+  enhanceApp({ app, router, siteData }) {
+    app.component('Tab', Tab)
+    app.component('Tabs', Tabs)
+    app.component('TitleImage', TitleImage)
+    app.component('CenteredImage', CenteredImage)
+    app.component('HireUsForm', HireUsForm)
+  }
+} satisfies Theme
