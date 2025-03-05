@@ -5,6 +5,7 @@ import DefaultTheme from 'vitepress/theme'
 
 import { Tab, Tabs } from 'vue3-tabs-component'
 import TitleImage from '../components/TitleImage.vue'
+import Copyright from "../components/Copyright.vue";
 import NotFound from '../components/NotFound.vue'
 import CenteredImage from '../components/CenteredImage.vue'
 import HireUsForm from "../components/HireUsForm.vue";
@@ -18,7 +19,8 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
-      'not-found': () => h(NotFound)
+      'not-found': () => h(NotFound),
+      'doc-after': () => h(Copyright)
     })
   },
   

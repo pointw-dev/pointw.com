@@ -14,10 +14,10 @@ hero:
   actions:
     - theme: brand
       text: What is pointw?
-      link: /guide/introduction/what-is
+      link: /introduction/what-is
     - theme: alt
       text: Quickstart
-      link: /guide/introduction/quickstart
+      link: /introduction/quickstart
 
 features:
   - title: Portfolio

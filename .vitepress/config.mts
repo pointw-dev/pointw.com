@@ -23,7 +23,7 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Quickstart', link: '/guide/introduction/quickstart' },
+      { text: 'Quickstart', link: '/introduction/quickstart' },
       // { text: pkg.version, link: null }
     ],
 
@@ -34,6 +34,9 @@ export default defineConfig({
         options: {
             detailedView: true
         }
+    },
+    footer: {
+      copyright: 'Copyright © 1999-2025 Michael Ottoson (pointw.com)'
     }
   },
 
@@ -82,8 +85,8 @@ function getSidebar() {
       {
         text: 'Introduction',
         items: [
-          { text: 'What is pointw?', link: '/guide/introduction/what-is' },
-          { text: 'Getting started', link: '/guide/introduction/quickstart' }
+          { text: 'What is pointw?', link: '/introduction/what-is' },
+          { text: 'Getting started', link: '/introduction/quickstart' }
         ]
       },
       {
