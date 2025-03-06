@@ -22,16 +22,18 @@ hero:
 features:
   - title: Portfolio
     icon: 💼
-    details: Take a look at some of the things we have done, to help you decide whether we can do something similar for you.
+    details: Take a look at some of the things we have done, to help you decide whether we can do something similar for you.<br/><br/><br/>
+    linkText: Learn more
+    link: portfolio/
   - title: Articles
     icon: ✍️ 
-    details: A collection of articles, essays, code snippets which provides as a searchable repository.
-  - title: Hire Us
+    details: A collection of articles, essays, code snippets which provides as a searchable repository.<br/><br/><br/><br/>
+    linkText: Read on
+    link: /articles/
+  - title: Hire Me
     icon: 👨‍💻
-    details: Let us help you achieve your goals, and deliver value to your users or clients.
+    details: Let me help you achieve your goals and deliver value to your users or clients.<br/><br/>Michael Ottoson<br/>(michael@pointw.com)
+    linkText: Send me an email
+    link: mailto:%22Michael%20Ottoson%22%20%3cmichael@pointw.com%3e?subject=I%20would%20like%20to%20hire%20you&body=I%20was%20looking%20at%20https%3A%2F%2Fpointw.com%20and%20I%20liked%20what%20I%20saw.%20%20Let%27s%20meet%20to%20discuss%20how%20we%20can%20work%20together%20on%20my%20next%20project.
     
 ---
-
-> This site is **under development** as we are on the verge of releasing our first major set of products.
-> <centered-image src="/img/work-in-progress.png" />
-> Please stay tuned!

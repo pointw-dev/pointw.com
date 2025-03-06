@@ -91,6 +91,7 @@ function getSidebar() {
       },
       {
         text: 'Articles',
+        link: '/articles/',
         items: [
           { text: 'UX vs UI', link: '/articles/ux-vs-ui' },
           { text: 'Gathering requirements is like pulling teeth', link: '/articles/gathering-requirements-is-like-pulling-teeth' },
@@ -98,10 +99,30 @@ function getSidebar() {
       },
       {
         text: "Code examples",
+        link: '/articles/code-examples/',
         items: [
           { text: 'Sending an email', link: '/articles/code-examples/sending-an-email' },
           { text: 'Reading and writing text files', link: '/articles/code-examples/reading-and-writing-text-files' },
         ]
-      }
+      },
+      {
+        text: 'Portfolio',
+        link: '/portfolio/',
+        items: [
+          { text: 'hypermea', link: '/portfolio/hypermea' },
+          { text: 'halchemy', link: '/portfolio/halchemy' },
+          { text: 'hypermedia-doc', link: '/portfolio/hypermedia-doc' },
+          { text: 'hypermea-negotiable-auth', link: '/portfolio/hypermea-negotiable-auth' },
+          { text: 'hypermea-gateway', link: '/portfolio/hypermea-gateway' },
+          { text: 'authparser', link: '/portfolio/authparser' },
+          { text: 'resource-model', link: '/portfolio/resource-model' },
+          { text: 'aws-cli', link: '/portfolio/aws-cli' },
+          { text: 'bawx-player', link: '/portfolio/bawx-player' },
+          { text: 'pybrightsign', link: '/portfolio/pybrightsign' },
+          { text: 'sencha-extjs', link: '/portfolio/sencha-extjs' },
+          { text: 'version-stamper', link: '/portfolio/version-stamper' }
+        ]
+      },
+
     ]
 }

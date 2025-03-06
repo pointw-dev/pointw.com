@@ -7,8 +7,11 @@ import { Tab, Tabs } from 'vue3-tabs-component'
 import TitleImage from '../components/TitleImage.vue'
 import Copyright from "../components/Copyright.vue";
 import NotFound from '../components/NotFound.vue'
+import FutureLanguages from "../components/FutureLanguages.vue";
 import CenteredImage from '../components/CenteredImage.vue'
-import HireUsForm from "../components/HireUsForm.vue";
+import PortfolioRepos from "../components/PortfolioRepos.vue";
+import HireMe from "../components/HireMe.vue";
+import HireMeForm from "../components/HireMeForm.vue";
 
 import './tabs.css'
 import './style.css'
@@ -19,6 +22,7 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      'doc-footer-before': () => h(HireMe),
       'not-found': () => h(NotFound),
       'doc-after': () => h(Copyright)
     })
@@ -29,6 +33,9 @@ export default {
     app.component('Tabs', Tabs)
     app.component('TitleImage', TitleImage)
     app.component('CenteredImage', CenteredImage)
-    app.component('HireUsForm', HireUsForm)
+    app.component('FutureLanguages', FutureLanguages)
+    app.component('HireMe', HireMe)
+    app.component('HireMeForm', HireMeForm)
+    app.component('PortfolioRepos', PortfolioRepos)
   }
 } satisfies Theme
