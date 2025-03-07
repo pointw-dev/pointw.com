@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: <img src="/img/banner.png">
+  name: <img class="magic-image" src="/img/banner.png">
   text: "<b>from</b> requirements<br/><b>to</b> delight"
   tagline: We help you tame complexity, ensure longevity, build for scalability, and create joy for your users.
   
