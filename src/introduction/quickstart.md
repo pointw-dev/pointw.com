@@ -1,11 +1,31 @@
 # Getting Started
 
-Let pointw help you:
+* Use these tools to make your development life easier
 
-* download and use to tools that make your development life easier
-* embed us in your development team and help deliver the software that will improve your users/clients lives
-* invite us to speak on hypermedia, rapid API development, microservices and cloud-native deployments
+<style scoped>
+td, th, tr, table {
+  border: 0 !important;
+  border-spacing:0 !important;
+  margin: -10px 0px 20px 50px;
+  padding: 5px;
+  background-color: transparent !important;
+}
+</style>
 
-This site is under development as we are on the verge of releasing our first major set of products.
+<table>
+<tr>
+  <td>Backend</td>
+  <td align="center"><img src="/img/hypermea-logo.svg" width="32"></td>
+  <td><a target="_blank" href="https://pointw-dev.github.io/hypermea/">hypermea</a></td>
+  <td>BETA - Simple Commands, Serious APIs</td>
+</tr>
+<tr>
+  <td>Client-side</td>
+  <td align="center"><img src="/img/halchemy-logo.svg" width="32"></td>
+  <td><a target="_blank" href="https://pointw-dev.github.io/halchemy/">halchemy</a></td>
+  <td>HAL for humans</td>
+</tr>
+</table>
 
-Please stay tuned!
+* [Hire me](/hire-me/) to join in your development team to help deliver the software that will improve your users/clients lives
+* Invite me to mentor/speak on hypermedia, rapid API development, microservices and cloud-native deployments

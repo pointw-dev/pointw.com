@@ -13,7 +13,7 @@ hero:
   
   actions:
     - theme: brand
-      text: What is pointw?
+      text: What is pointw.com?
       link: /introduction/what-is
     - theme: alt
       text: Quickstart

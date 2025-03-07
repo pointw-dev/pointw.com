@@ -85,7 +85,7 @@ function getSidebar() {
       {
         text: 'Introduction',
         items: [
-          { text: 'What is pointw?', link: '/introduction/what-is' },
+          { text: 'What is pointw.com?', link: '/introduction/what-is' },
           { text: 'Getting started', link: '/introduction/quickstart' }
         ]
       },

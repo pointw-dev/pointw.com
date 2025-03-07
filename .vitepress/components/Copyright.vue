@@ -4,7 +4,7 @@
 
 <template>
   <div class="VPFooter">
-    <p class="copyright">Copyright © 1999-2025 Michael Ottoson (pointw.com)</p>
+    <p class="copyright">Copyright © 1995-2025 Michael Ottoson (pointw.com)</p>
   </div>
 </template>
 
