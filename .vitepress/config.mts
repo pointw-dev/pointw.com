@@ -3,9 +3,9 @@ import { fileURLToPath, URL } from 'node:url'
 // const pkg = require('../../version_stamp.json')
 
 
-const hostname = 'https://pointw.com'
+const hostname = 'https://www.pointw.com'
 const basePath = ''
-const seoLogo = 'https://pointw.com/img/pointw-logo.png'
+const seoLogo = 'https://www.pointw.com/img/pointw-logo.png'
 
 const calculatedBasePath = (basePath? `/${basePath}/` : '/')
 
