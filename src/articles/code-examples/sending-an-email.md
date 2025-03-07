@@ -2,7 +2,7 @@
 
 ## A simple email
 
-A simple text-only email, nothing fancy. Rplace `your.smtpserver.com` with the name or IP address of the SMTP server you
+A simple text-only email, nothing fancy. Replace `your.smtpserver.com` with the name or IP address of the SMTP server you
 use.
 
 <tabs>

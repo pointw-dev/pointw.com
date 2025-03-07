@@ -1,8 +1,11 @@
 # Hire Me
 
-My name is Michael Ottoson (`michael@pointw.com`).  
+My name is Michael Ottoson.  
+* **Software development professional** with 20+ years of experience delivering business automation solutions.
+* **Skillful communicator** who can abstract complex requirements and explain detailed solutions to stakeholders and colleagues.
+* **Results-oriented** with a focus on delivering real value and delight to users.
 
-<centered-image src="/img/michael-ottoson.png" rounded width="200"/>
+<centered-image src="/img/michael-ottoson.png" rounded width="200">michael@pointw.com</centered-image>
 
 <style scoped>
 td, th, tr, table {
@@ -28,7 +31,7 @@ h2 {
 </table>
 </center>
 
-I created everything mentioned on this site.
+I created everything on this site.
 
 Are you looking for a senior full-stack developer (contract or full-time)?  Let me help you achieve your goals and deliver value to your users or clients.
 
