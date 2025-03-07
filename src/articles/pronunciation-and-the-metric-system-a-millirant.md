@@ -1,6 +1,6 @@
 # Pronunciation and the metric system - a millirant
 
-The metric system - what a proud achievement of the human race. Elegance, consistency, utilty. If your country hasn't
+The metric system - what a proud achievement of the human race. Elegance, consistency, utility. If your country hasn't
 adopted it as its measurement standard, what are you waiting for?
 
 <centered-image src="/img/metric-world.png">It's a metric world</centered-image>
@@ -46,7 +46,7 @@ This device follows a familiar pattern for naming measuring devices.
 
 The pattern is:
 
-- Make a prefix of the thing you are measureing
+- Make a prefix of the thing you are measuring
 - put the accent on final vowel
 - if that vowel is an O make it rhyme with AW
 - tack on the “-mi-ter” part.
@@ -63,14 +63,14 @@ what a joule is, you know there are a thousand of them in a kilojoule.
 Do you apply the “thermometer pattern” to any other prefixed metric units?
 
 - kilogram: Do you pronounce it “kil-AW-grum”?
-- kilopasacal: Should the forecast say “the pressure today is 101.7 “kil-AW-pass-kulls”?
+- kilopascal: Should the forecast say “the pressure today is 101.7 “kil-AW-pass-kulls”?
 - gigawatt: Does Doc Brown lament the difficulty in generating “1.21 jig-AW-wuts”?
 
 > I hear you asking: What about the “one point twenty-one” part, or the “jiga”? – that’s for another rant!
 
 <centered-image src="/img/doc-brown.jpg">What is a jig-AW-wut?</centered-image>
 
-No? Then for consistency sake please pronounce it “KIL-oh-mee-ter”. It is awkward at first, yes – but you will get used
+No? Then for the sake of consistency please pronounce it “KIL-oh-mee-ter”. It is awkward at first, yes – but you will get used
 to it. Kinda like the metric system itself.
 
 There. I feel better.

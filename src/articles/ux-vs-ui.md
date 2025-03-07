@@ -14,7 +14,7 @@ not easy to make things easy-to-use. It takes a lot of work, trial-and-error, in
 
 It is easier to create convoluted user interfaces. Often a monstrous UI results from a lack of understanding of the
 problem domain. It is almost always a symptom of thinking more about the software solution than the client’s problem. In
-fact, by thrusting a sub-optimal UI in front of the poor user, haven’t we just added to her problems instead of solving
+fact, by thrusting a suboptimal UI in front of the poor user, haven’t we just added to her problems instead of solving
 them?
 
 <centered-image src="/img/your-companys-app.png">There’s a reason you have heard of Apple and Google</centered-image>

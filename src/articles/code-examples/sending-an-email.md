@@ -19,6 +19,7 @@ with SMTP('your.smtpserver.com') as smtp:
 > separated from the message itself by a blank line.
 > The `smtplib` library in Python (a built-in but basic implementation of the spec), provides parameters for `To:` and
 `From:`, but no others, including `Subject:`, strangely.
+
 </tab>
 
 
@@ -526,10 +527,10 @@ message.Send
 
 > NOTE: you can convert a file into base64 as used above with
 > * `base64 -w 0 email-banner.png` (Linux)
-> * or `base64 -i email-banner.png` (MacOS)
+> * or `base64 -i email-banner.png` (macOS)
 > * or you can use a [conversion site like this](https://www.base64-image.de/).
 
-To load the image from a file (instead of embedding the base 64 as shown above) use `cid:` with an arbirary identifier (
+To load the image from a file (instead of embedding the base 64 as shown above) use `cid:` with an arbitrary identifier (
 the examples below use `banner`) to push the image into your html as a separate part.
 
 <tabs>

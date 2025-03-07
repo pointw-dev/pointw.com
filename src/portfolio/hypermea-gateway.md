@@ -1,6 +1,6 @@
 # hypermea-gateway
 
-> hypermea-gateway is a simple API that allows other HypermeaService APIs to register. Once registered, that API's resources and affordances appear in the root of the gateway. In this way, clients can go to the gateway and find all resources provided by all registered APIs.
+> hypermea-gateway is a simple API that allows other HypermeaService APIs to register. Once registered, that resources and affordances for that API appear in the root of the gateway. In this way, clients can go to the gateway and find all resources provided by all registered APIs.
 
 <portfolio-repos name="hypermea-gateway" github docker />
 

@@ -8,7 +8,7 @@ Some projects have version numbers in multiple files, e.g. `package.json` or `se
 
 With version stamper, you set the version number in one place (`version_stamp.json`), configure which files need the version number.  
 
-For example, our [halchemy](https://github.com/pointw-dev/halchemy) library contains packages for Python, Node, and Ruby (more coming in the roadmap!).  To keep all of these packages in sync, halchemy's `version_stamp.json` looks like this:
+For example, our [halchemy](https://github.com/pointw-dev/halchemy) library contains packages for Python, Node, and Ruby (more coming in the roadmap!).  To keep all of these packages in sync, the `version_stamp.json` for halchemy looks like this:
 
 ```json
 {
