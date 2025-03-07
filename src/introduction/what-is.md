@@ -28,7 +28,7 @@ It seemed like a good name at the time.  However, it does make it difficult to t
 
 > Someone:  Can I have your email address, please?
 > 
-> Me: Sure, it's "michael@pointw.com"
+> Me: Sure, it's "`michael@pointw.com`"
 >
 > Someone: "michael@.w.com"?
 >
