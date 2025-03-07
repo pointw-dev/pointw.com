@@ -3,7 +3,7 @@ import { fileURLToPath, URL } from 'node:url'
 
 const hostname = 'https://www.pointw.com'
 const basePath = ''
-const seoLogo = 'https://www.pointw.com/img/pointw-logo.png'
+const seoLogo = 'https://www.pointw.com/img/pointw.com-card.png'
 const tagline = 'from requirements to delight'
 const title = 'pointw.com'
 
