@@ -5,7 +5,7 @@ layout: home
 hero:
   name: <img src="/img/banner.png">
   text: "<b>from</b> requirements<br/><b>to</b> delight"
-  tagline: We help you tame complexity, ensure longevity, build for scaleability, and create joy for your users.
+  tagline: We help you tame complexity, ensure longevity, build for scalability, and create joy for your users.
   
   image:
     src: /img/hero.svg
