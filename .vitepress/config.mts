@@ -1,18 +1,19 @@
 import { defineConfig, withBase } from 'vitepress'
 import { fileURLToPath, URL } from 'node:url'
-// const pkg = require('../../version_stamp.json')
-
 
 const hostname = 'https://www.pointw.com'
 const basePath = ''
 const seoLogo = 'https://www.pointw.com/img/pointw-logo.png'
+const tagline = 'from requirements to delight'
+const title = 'pointw.com'
 
 const calculatedBasePath = (basePath? `/${basePath}/` : '/')
+const siteUrl = hostname + calculatedBasePath
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: 'pointw.com',
-  description: 'from requirements to delight',
+  title: title,
+  description: tagline,
 
   themeConfig: {
     siteTitle: 'pointw.com',
@@ -46,10 +47,17 @@ export default defineConfig({
 
     // test with https://www.opengraph.xyz/url/
     ['meta', {property: 'og:image', content: seoLogo}],
+    ['meta', {property: "og:url", content: siteUrl}],
+    ['meta', {property: "og:description", content: tagline}],
     ['meta', {property: 'og:type', content: 'website'}],
 
-    ['meta', {name: 'twitter:image', value: seoLogo}],
-    ['meta', {name: 'twitter:card', value: 'summary'}]
+    ['meta', {name: "twitter:card", content: "summary_large_image"}],
+    ['meta', {name: 'twitter:image', content: seoLogo}],
+    ['meta', {property: "twitter:domain", content: "pointw.com"}],
+    ['meta', {property: "twitter:url", content: siteUrl}],
+    ['meta', {name: "twitter:title", content: title}],
+    ['meta', {name: "twitter:description", content: tagline}]
+
   ],
   srcDir: 'src',
   vite: {
@@ -63,7 +71,7 @@ export default defineConfig({
     }
   },
   sitemap: {
-    hostname: hostname + calculatedBasePath
+    hostname: siteUrl
   },
   
   transformPageData(pageData) {
