@@ -100,7 +100,7 @@ h2 {
 </tr>
 </table>
 
-# Cloud
+## Cloud
 <table>
 <tr>
   <td align="center"><img src="/img/aws.svg" width="50">AWS</td>
