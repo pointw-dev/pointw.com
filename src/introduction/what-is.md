@@ -28,8 +28,8 @@ It seemed like a good name at the time.  However, it does make it difficult to t
 
 > Someone:  Can I have your email address, please?
 > 
-> Me: Sure, it's "`michael@pointw.com`"
+> Me: Sure, it's `michael@pointw.com`
 >
-> Someone: "michael@.w.com"?
+> Someone: `michael@.w.com`?
 >
-> Me: No, it's "michael at P-O-I-N-T-W dot com"
+> Me: No, "michael at P-O-I-N-T-W dot com"
