@@ -18,7 +18,9 @@ export default defineConfig({
   themeConfig: {
     siteTitle: 'pointw.com',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/pointw-dev' }
+      { icon: 'github', link: 'https://github.com/biscuit314' },
+      { icon: 'linkedin', link: 'https://www.linkedin.com/in/michael-ottoson-037496b1/' },
+      { icon: 'discord', link: 'https://discord.gg/8evRe6Rm3S' }
     ],
     logo: '/img/hero.svg',
 
