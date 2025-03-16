@@ -51,7 +51,6 @@ function onMouseLeave() {
   verticalY.value = 0
   verticalX.value = 0
 }
-
 </script>
 
 <template>

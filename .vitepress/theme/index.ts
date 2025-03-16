@@ -4,11 +4,8 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
 import { Tab, Tabs } from 'vue3-tabs-component'
-import TitleImage from '../components/TitleImage.vue'
-import Copyright from "../components/Copyright.vue";
-import NotFound from '../components/NotFound.vue'
+import { NotFound, Copyright, CenteredImage, TitleImage, CommentsSection } from "@pointw/vitepress-component-bundle";
 import FutureLanguages from "../components/FutureLanguages.vue";
-import CenteredImage from '../components/CenteredImage.vue'
 import PortfolioRepos from "../components/PortfolioRepos.vue";
 import HireMe from "../components/HireMe.vue";
 import HireMeForm from "../components/HireMeForm.vue";
@@ -24,13 +21,14 @@ export default {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
       'doc-footer-before': () => h(HireMe),
       'not-found': () => h(NotFound),
-      'doc-after': () => h(Copyright)
+      'doc-after': () => h(Copyright, {message: '1999-2025 Michael Ottoson (pointw.com)'})
     })
   },
   
   enhanceApp({ app, router, siteData }) {
     app.component('Tab', Tab)
     app.component('Tabs', Tabs)
+    app.component('CommentsSection', CommentsSection)
     app.component('TitleImage', TitleImage)
     app.component('CenteredImage', CenteredImage)
     app.component('FutureLanguages', FutureLanguages)

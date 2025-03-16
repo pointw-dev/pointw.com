@@ -86,3 +86,5 @@ are reflected in my contrived example here.
 First design (or redesign) a UX. Then design a UI (if one is even needed). It makes all the difference. Two separate
 creative tasks, two separate processes, two separate documents. UX design informs UI design and makes it better. It is
 one of the tools that allow us to engineer the illusion of simplicity.
+
+<comments-section repo="pointw-dev/pointw.com" repoId="R_kgDOODr9BQ" category="General" categoryId="DIC_kwDOODr9Bc4CoDyx" />

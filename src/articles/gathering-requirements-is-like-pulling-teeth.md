@@ -55,3 +55,5 @@ groove instead and use glue for a stronger joint (then sell her a 3/4″ router 
 The moral of the story: the customer owns the requirements, yes, but it takes a skilled analyst to surface the actual
 need before one can propose a solution. If your team engages in requirements gathering, hire a trained analyst – or
 learn the techniques yourself. Do not rely on your client to pull their own teeth!
+
+<comments-section repo="pointw-dev/pointw.com" repoId="R_kgDOODr9BQ" category="General" categoryId="DIC_kwDOODr9Bc4CoDyx" />
