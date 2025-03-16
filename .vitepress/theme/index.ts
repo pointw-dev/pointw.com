@@ -4,7 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
 import { Tab, Tabs } from 'vue3-tabs-component'
-import { NotFound, Copyright, CenteredImage, TitleImage, CommentsSection } from "@pointw/vitepress-component-bundle";
+import { NotFound, Copyright, CenteredImage, CommentsSection } from "@pointw/vitepress-component-bundle";
 import FutureLanguages from "../components/FutureLanguages.vue";
 import PortfolioRepos from "../components/PortfolioRepos.vue";
 import HireMe from "../components/HireMe.vue";
@@ -29,10 +29,8 @@ export default {
     app.component('Tab', Tab)
     app.component('Tabs', Tabs)
     app.component('CommentsSection', CommentsSection)
-    app.component('TitleImage', TitleImage)
     app.component('CenteredImage', CenteredImage)
     app.component('FutureLanguages', FutureLanguages)
-    app.component('HireMe', HireMe)
     app.component('HireMeForm', HireMeForm)
     app.component('PortfolioRepos', PortfolioRepos)
   }

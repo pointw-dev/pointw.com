@@ -14,6 +14,7 @@ const props = defineProps<{
 
 <template>
   <table>
+    <tbody>
     <tr>
       <td>Find more on:</td>
       <td v-if="props.github"><a target="_blank" :href="'https://github.com/pointw-dev/' + props.name"><img src="/img/github.svg" width="32"></a></td>
@@ -22,6 +23,7 @@ const props = defineProps<{
       <td v-if="props.docker"><a target="_blank" :href="'https://hub.docker.com/repository/docker/pointw/' + props.name + '/general'"><img src="/img/docker.svg" width="32"></a></td>
       <td v-if="props.ruby"><a target="_blank" :href="'https://rubygems.org/gems/' + props.name"><img src="/img/rubygems.svg" width="32"></a></td>
     </tr>
+  </tbody>
   </table>
 </template>
 

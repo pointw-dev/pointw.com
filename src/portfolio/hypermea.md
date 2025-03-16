@@ -10,10 +10,12 @@ td, th, tr, table {
 }
 </style>
 <table>
+<tbody>
 <tr>
   <td><img src="/img/hypermea-banner.png"></td>
   <td><img src="/img/hypermea-logo.svg" width="150"></td>
 </tr>
+</tbody>
 </table>
 
 

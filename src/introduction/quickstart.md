@@ -10,21 +10,27 @@ td, th, tr, table {
   padding: 5px;
   background-color: transparent !important;
 }
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
 </style>
 
 <table>
+<tbody>
 <tr>
   <td>Backend</td>
-  <td align="center"><img src="/img/hypermea-logo.svg" width="32"></td>
+  <td><img src="/img/hypermea-logo.svg" width="32"></td>
   <td><a target="_blank" href="https://pointw-dev.github.io/hypermea/">hypermea</a></td>
   <td>BETA - Simple Commands, Serious APIs</td>
 </tr>
 <tr>
   <td>Client-side</td>
-  <td align="center"><img src="/img/halchemy-logo.svg" width="32"></td>
+  <td><img src="/img/halchemy-logo.svg" width="32"></td>
   <td><a target="_blank" href="https://pointw-dev.github.io/halchemy/">halchemy</a></td>
   <td>HAL for humans</td>
 </tr>
+</tbody>
 </table>
 
 * [Hire me](/hire-me/) to join in your development team to help deliver the software that will improve your users/clients lives
