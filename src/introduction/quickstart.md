@@ -37,7 +37,7 @@ img {
 <tr>
   <td>Both</td>
   <td><img src="/img/portfolio/hypermedia-logo.svg" width="32"></td>
-  <td><a target="_blank" href="https://pointw-dev.github.io/hypermedia/">More about <br/><b>hypermedia</b></a></td>
+  <td><a target="_blank" href="https://pointw-dev.github.io/hypermedia-docs/">More about <br/><b>hypermedia</b></a></td>
   <td>Design resilient APIs using the power of the Web</td>
 </tr>
 </tbody>
