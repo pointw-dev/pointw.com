@@ -10,7 +10,7 @@ chance they are at the table, engaged, and looking forward to the solution your 
 When it comes to dental extractions, only a professional who knows what they are doing should perform such a difficult
 and potentially dangerous exercise. Only a dentist should pull teeth.
 
-<centered-image src="/img/pulling-your-own-teeth.png">Don't try this at home</centered-image>
+<centered-image src="/img/articles/pulling-your-own-teeth.png">Don't try this at home</centered-image>
 
 Gathering requirements is like pulling teeth because only a skilled practitioner should do it – it’s not the client’s
 responsibility. The all-too-common problem I’m discussing here is this line of thinking: The client owns the
@@ -36,13 +36,13 @@ stories I have experienced working from bad requirements. To illustrate the diff
 Imagine a customer enters a hardware store. She says, “I want a ½” drill bit.” There’s a good chance the store will sell
 her one of these (admit it – this is what popped into your mind too):
 
-<centered-image src="/img/half-inch-drill-bit.png">A ½” drill bit – problem solved!</centered-image>
+<centered-image src="/img/articles/half-inch-drill-bit.png">A ½” drill bit – problem solved!</centered-image>
 
 You may have heard the expression “No one wants a ½” drill bit. They want a ½” hole.” Knowing this is a big deal. If you
 are more interested in solving a problem than selling a solution, you will have questions. What material will the hole
 be drilled into? Will it be a through-hole or partial? Centre hole or offset?
 
-<centered-image src="/img/more-half-inch-drill-bits.png">Each of these is a ½” drill bit, designed to solve a different
+<centered-image src="/img/articles/more-half-inch-drill-bits.png">Each of these is a ½” drill bit, designed to solve a different
 problem</centered-image>
 
 What if you discover she is attaching two boards at a right angle to make a shelf. She wants to drill guide holes for
@@ -50,7 +50,7 @@ screws to hold them together. That shelf will not be very strong – books are h
 groove instead and use glue for a stronger joint (then sell her a 3/4″ router bit). This solves her problem in a way a
 ½” drill bit cannot.
 
-<centered-image src="/img/groove-for-shelf.png" />
+<centered-image src="/img/articles/groove-for-shelf.png" />
 
 The moral of the story: the customer owns the requirements, yes, but it takes a skilled analyst to surface the actual
 need before one can propose a solution. If your team engages in requirements gathering, hire a trained analyst – or

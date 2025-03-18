@@ -2,7 +2,7 @@
 title: halchemy
 ---
 
-<img src="/img/halchemy-banner.png">
+<img src="/img/portfolio/halchemy-banner.png">
 
 # HAL for humans
 

@@ -8,7 +8,7 @@ Splitting a single service into four presents a problem of orchestration.  To ad
 
 The Gateway component receives the root document of each API that registers with it.  When the Gateway receives a request for its root resource, it responds with an aggregation of all root documents it has received.
 
-<centered-image src="/img/gateway-pattern.svg" width="600" rounded />
+<centered-image src="/img/portfolio/gateway-pattern.svg" width="600" rounded />
 
 This works well with the hypermedia approach.  The `pointw/hypermea-gateway` component is very lightweight.  It adds almost no additional processing when clients come calling.  A typical client makes a request for the root resource once. Once the Gateway delivers its aggregated root resource, it is typically never invoked again for the rest of that client's session. 
 

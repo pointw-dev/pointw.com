@@ -3,7 +3,7 @@
 The metric system - what a proud achievement of the human race. Elegance, consistency, utility. If your country hasn't
 adopted it as its measurement standard, what are you waiting for?
 
-<centered-image src="/img/metric-world.png">It's a metric world</centered-image>
+<centered-image src="/img/articles/metric-world.png">It's a metric world</centered-image>
 
 There is one minor problem, though, that I would like to address. It's not with the system itself, but with a popular
 pronunciation of just one word.
@@ -24,7 +24,7 @@ Why then do so many people say "kil-AW-mi-ter"?
 Canada started using the metric system in the early 70s. I remember the strange updates to road signs, and the new
 textbooks emblazoned with this logo:
 
-<centered-image src="/img/metric-logo-canada.png">Metrication in Canada</centered-image>
+<centered-image src="/img/articles/metric-logo-canada.png">Metrication in Canada</centered-image>
 
 The adjustment wasn’t easy. Was it just me, or did everything in metric seem smaller at first? A mile is bigger than a
 kilometre. A centimeter is smaller than an inch. When it was 80° F outside, it was only 27° C. Sure, a kilogram is
@@ -35,7 +35,7 @@ some old units you are more comfortable with. Even today, I don’t know my own 
 But everyone gets the kilometre. From car dashboards to roadsigns, the kilometre is everywhere. So why is the most
 successful of the metric units the one that is most mispronounced? I blame this guy:
 
-<centered-image src="/img/thermometer.png" />
+<centered-image src="/img/articles/thermometer.png" />
 
 This device follows a familiar pattern for naming measuring devices.
 
@@ -68,7 +68,7 @@ Do you apply the “thermometer pattern” to any other prefixed metric units?
 
 > I hear you asking: What about the “one point twenty-one” part, or the “jiga”? – that’s for another rant!
 
-<centered-image src="/img/doc-brown.jpg">What is a jig-AW-wut?</centered-image>
+<centered-image src="/img/articles/doc-brown.jpg">What is a jig-AW-wut?</centered-image>
 
 No? Then for the sake of consistency please pronounce it “KIL-oh-mee-ter”. It is awkward at first, yes – but you will get used
 to it. Kinda like the metric system itself.

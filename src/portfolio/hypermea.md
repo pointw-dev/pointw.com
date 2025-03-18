@@ -12,8 +12,8 @@ td, th, tr, table {
 <table>
 <tbody>
 <tr>
-  <td><img src="/img/hypermea-banner.png"></td>
-  <td><img src="/img/hypermea-logo.svg" width="150"></td>
+  <td><img src="/img/portfolio/hypermea-banner.png"></td>
+  <td><img src="/img/portfolio/hypermea-logo.svg" width="150"></td>
 </tr>
 </tbody>
 </table>

@@ -24,19 +24,19 @@ img {
 <tbody>
 <tr>
   <td>Backend</td>
-  <td><img src="/img/hypermea-logo.svg" width="32"></td>
+  <td><img src="/img/portfolio/hypermea-logo.svg" width="32"></td>
   <td><a target="_blank" href="https://pointw-dev.github.io/hypermea/">hypermea</a><br/><span class="beta">[BETA]</span></td>
   <td>Simple Commands, Serious APIs</td>
 </tr>
 <tr>
   <td>Client-side</td>
-  <td><img src="/img/halchemy-logo.svg" width="32"></td>
+  <td><img src="/img/portfolio/halchemy-logo.svg" width="32"></td>
   <td><a target="_blank" href="https://pointw-dev.github.io/halchemy/">halchemy</a></td>
   <td>HAL for humans</td>
 </tr>
 <tr>
   <td>Both</td>
-  <td><img src="/img/hypermedia.svg" width="32"></td>
+  <td><img src="/img/portfolio/hypermedia-logo.svg" width="32"></td>
   <td><a target="_blank" href="https://pointw-dev.github.io/hypermedia/">More about <br/><b>hypermedia</b></a></td>
   <td>Design resilient APIs using the power of the Web</td>
 </tr>

@@ -311,7 +311,7 @@ with SMTP(host) as smtp:
 
 The following code examples will send an email that looks like this:
 
-<centered-image src="/img/html-formatted-mail.png"/>
+<centered-image src="/img/articles/html-formatted-mail.png"/>
 
 <tabs>
 <tab name="Python">
