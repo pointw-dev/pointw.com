@@ -5,10 +5,8 @@
     "docs:preview": "vitepress preview"
   },
   "devDependencies": {
-    "vitepress": "^1.1.4",
-    "vue3-tabs-component": "^1.3.7"
-  },
-  "dependencies": {
-    "@pointw/vitepress-component-bundle": "^1.0.1"
+    "vitepress": "1.1.4",
+    "vue3-tabs-component": "^1.3.7",
+    "@pointw/vitepress-component-bundle": "^1.0.5"
   }
 }

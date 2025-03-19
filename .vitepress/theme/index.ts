@@ -4,8 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 
 import { Tab, Tabs } from 'vue3-tabs-component'
-import { NotFound, Copyright, CenteredImage, CommentsSection } from "@pointw/vitepress-component-bundle";
-import FutureLanguages from "../components/FutureLanguages.vue";
+import { CenteredImage, CommentsSection, Copyright, FutureLanguages, NotFound } from '@pointw/vitepress-component-bundle'
 import PortfolioRepos from "../components/PortfolioRepos.vue";
 import HireMe from "../components/HireMe.vue";
 import HireMeForm from "../components/HireMeForm.vue";
